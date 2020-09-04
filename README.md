@@ -2,7 +2,7 @@
 
     A program that inputs a list of all major league baseball stadiums and a list of all the major league baseball teams and stores this data in a suitable data structure. The data will allow baseball fans to plan their dream vacation.   
 
-    The initial souvenir list is a follows:
+### The initial souvenir list is a follows:
       (1) Baseball cap			$25.99
       (2) Baseball bat			$35.35
       (3) Team pennant			$12.99
